@@ -4,3 +4,11 @@ __pycache__/
 *.pyc
 .DS_Store
 data/chroma/
+.env.*
+!.env.example
+data/index-*/
+data/raw/
+.pytest_cache/
+.ruff_cache/
+*.log
+tmp/
